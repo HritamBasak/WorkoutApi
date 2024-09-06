@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/musc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/work"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/intens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/beng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/inter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/exp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/equip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/explan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/longexplan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/anek_bangla_semibold"
+        android:text="TextView" />
+</LinearLayout>
